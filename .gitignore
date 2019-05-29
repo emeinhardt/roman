@@ -1,0 +1,12 @@
+pynb_checkpoints
+*.ipynb_checkpoints*
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+__MACOSX/
+__pycache__/
